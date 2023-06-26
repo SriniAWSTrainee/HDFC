@@ -1,5 +1,6 @@
 class Main {
-
+#varailble Declaration Ramya 26/06
+#first & second	
   public static void main(String[] args) {
     
     int first = 10;
